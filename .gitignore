@@ -51,9 +51,3 @@ build
 ehthumbs.db
 Thumbs.db
 
-# Database schemas
-*.sql
-
-# YAML configs/specs
-*.yaml
-*.yml
